@@ -158,3 +158,10 @@ a:hover {
   text-decoration: none;
 }
 
+.profile-pic {
+display: block;
+margin: auto;
+border-radius: 100%;
+border: 5px solid #555;
+}
+
