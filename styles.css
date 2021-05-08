@@ -159,6 +159,7 @@ a:hover {
 }
 
 .profile-pic {
-border: 5px solid #555;
+  border: 5px solid #555;
+  border-radius: 50%
 }
 
